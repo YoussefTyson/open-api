@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>هدية السنة الجديدة</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: url('https://i.imgur.com/FYlQLYf.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+            text-align: center;
+        }
+        .container {
+            padding: 20% 10%;
+        }
+        h1 {
+            font-size: 3rem;
+            text-shadow: 2px 2px 10px black;
+        }
+        p {
+            font-size: 1.5rem;
+            margin: 20px 0;
+        }
+        .btn {
+            display: inline-block;
+            background: crimson;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            box-shadow: 2px 2px 10px black;
+            transition: background 0.3s;
+        }
+        .btn:hover {
+            background: darkred;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>مرحبًا يا بسنت!</h1>
+        <p>كل سنة وأنتِ معايا يا أجمل حاجة في حياتي ❤️</p>
+        <a href="page2.html" class="btn">دوسي هنا يا روحي ♥️</a>
+    </div>
+</body>
+</html>
